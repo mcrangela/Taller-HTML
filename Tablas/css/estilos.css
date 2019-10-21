@@ -1,0 +1,74 @@
+body{
+    background-image:url("../imagenes/fondo.png");
+    background-size:  cover;
+    background-attachment: fixed;
+}
+div{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border: solid gainsboro;
+    max-width: 100%;
+    padding: 20px;
+    margin: 50px;  
+    background: white;
+  
+}
+#titulo{
+    color: black;
+    text-align: center;
+    font-family: 'Rockwell Extra Bold', cursive;
+    background-image:url("../imagenes/titulo.jpg");
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-end-end-radius: 10px;
+}
+#table1{
+    width: 100%;
+    background: #E3F6CE;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+td{ 
+    padding: 8px;
+    text-align: left;
+    border-bottom: 4px solid  rgb(43, 63, 2);
+    width: 30%;
+    height: 50%;
+}    
+p{
+    font-family: 'Rye', cursive;
+    text-align: justify;
+}    
+#imagen{
+    width: 100%;
+    height: 50%;
+}
+#imagen2{
+    width: 100%;
+    height: 40%;
+}   
+
+th{
+    background: rgb(43, 63, 2);
+    text-align: center;
+    color: white;
+    font-family: 'Rye', cursive;
+    border-radius: 60px black;
+    
+}
+strong{
+    font-family: 'Rye', cursive;
+}
+
+#table2{
+   width: 100%;
+   padding: 15px;
+   border-collapse: separate;
+   border-spacing: 5px;
+   background: #E3F6CE bottom left repeat-x;
+   
+}
+#imagen3{
+    width: 100%;
+    height: 50%;
+} 

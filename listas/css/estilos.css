@@ -1,0 +1,58 @@
+body{
+    background-image:url("../imagenes/fondo.jpg");
+    background-size:  cover;
+    background-attachment: fixed;
+}
+#body{
+    border-radius: 25px;
+    border: 2px solid white;
+    max-width: 70%;       
+    padding: 30px;
+    margin: 90px;
+    background: white;
+  
+}
+#titulo{
+    border-radius: 25px;
+    border: 2px solid white;
+    max-width: 100%;    
+    padding: 30px;    
+    background: rgb(58, 114, 160);
+    font-size: 34px;
+    font-family: 'Broadway', cursive;
+    color: white;
+}
+#c{
+    border-radius: 25px;
+    border: 2px solid white;
+    max-width: 80%;
+    height: 90%;    
+    padding: 20px;    
+    background: rgb(58, 114, 160);
+    margin: 20px;
+    text-align: left;
+}
+#imagen{
+    float: right;
+    border-radius: 25px;
+    border: 2px solid black;       
+    padding: 20px;    
+    background: rgb(58, 114, 160);
+    margin: 10px;   
+    }
+li,dd{
+    font-size: 24px;
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+strong{
+    font-size: 28px;
+    font-family: 'harrington', cursive;
+    color: black;  
+}
+#link{
+    float: left;
+    color:black;
+    font-size: 15px;
+    font-family: 'Pacifico', cursive;
+}

@@ -1,0 +1,57 @@
+    body{
+        background-image:url("../imagenes/fondo.jpg");
+        background-size:  cover;
+        background-attachment: fixed;
+    }
+    
+    div{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border: solid gainsboro 10px;
+    max-width: 70%;
+    padding: 20px;     
+    background: white;
+    }
+    #link{
+        float:left; 
+    }
+    #imagen{
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;  
+        margin: 50px; 
+        border: black;
+    }
+    
+    h1{
+    color:black;
+    font-size: 50px;
+    text-align:center;
+    font-family: 'Broadway', cursive;
+    }
+
+    #table1{
+        max-width: 30%;
+        background:  rgb(253, 253, 253);
+        
+        border: black;
+  
+    }
+
+    th, tr{
+        padding: 15px;
+        background: rgb(241, 219, 170);
+        color: black;
+    }
+
+    #fila1{        
+        text-align: justify;                               
+    }
+    #fila2{
+        background: black;
+        text-align: center;                             
+    }
+    
+    p{
+        font-family: 'Red Hat Display', sans-serif; 
+        text-align: justify;
+    }
